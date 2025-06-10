@@ -9,31 +9,15 @@
 iWallpaper is a beautiful wallpaper application that allows users to:
 
 * Browse and explore a curated gallery of high-quality wallpapers
-* **(Add unique features: e.g. categories, live wallpapers, favorites)**
-* Set, download, and share wallpapers with ease
+* Set wallpapers with ease
 
 ---
 
 ## 🚀 Features
 
 * 🖼️ **Multiple Categories**: Nature, abstract, landscapes, minimalism… *(or your own categories)*
-* ⭐ **Favorites**: Save wallpapers you love for easy access
-* 🔄 **Auto‑Change**: Daily wallpaper refresh option
-* 📂 **Downloads & Sharing**: Save wallpapers locally or share with friends
+* 🔄 **Auto‑Change**: Daily wallpaper refresh
 * 🌐 **HD Quality**: Full‑resolution images optimized for most screen sizes
-
----
-
-## 🛠️ Tech Stack
-
-| Layer                | Technology / Library                    |
-| -------------------- | --------------------------------------- |
-| **Frontend**         | Flutter / React Native / Kotlin / Swift |
-| **Backend/API**      | Unsplash API / Custom REST service      |
-| **Storage**          | Firebase / Local Database (Hive / Room) |
-| **Image Loader**     | Coil / Glide / CachedNetworkImage       |
-| **State Management** | Provider / Bloc / Redux / Riverpod      |
-| **CI/CD**            | GitHub Actions / Fastlane / Codemagic   |
 
 ---
 
@@ -114,8 +98,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 Created by **Ankit Savaliya** – feel free to reach out:
 
 * LinkedIn: [savaliya‑ankit](https://www.linkedin.com/in/savaliya-ankit/)
-* Twitter: `@your_twitter_handle`
-* Email: `your.email@example.com`
+* Email: `savaliyaankit5125@gmail.com`
 
 ---
 
